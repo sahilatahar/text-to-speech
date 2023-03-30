@@ -1,6 +1,9 @@
 # Text to Speech using Web Speech API
 ### This is a simple web application that uses the Web Speech API to convert text into speech. With this application, you can easily convert any text into an audio file and control various aspects of the speech, including rate, volume, and pitch.
 
+## Skills
+   [![My Skills](https://skillicons.dev/icons?i=html,bootstrap,javascript&perline=3)](https://skillicons.dev)
+
 ## Features
 + Converts text to speech using Web Speech API.
 + Allows you to control the speech rate, volume, and pitch.
