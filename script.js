@@ -49,6 +49,7 @@ voicesSelect.addEventListener('onchange', () => {
 
 startBtn.addEventListener('click', () => {
     speech.text = textInput.value;
+    window.speechSynthesis.cancel();
     window.speechSynthesis.speak(speech);
 });
 pauseBtn.addEventListener('click', () => {
