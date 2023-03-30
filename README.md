@@ -8,7 +8,7 @@
 + Provides a simple and intuitive interface for easy usage.
 
 ## How to use
-+ Go to the website: https://sahilatahar.github.io/text-to-voice/
++ Go to the website: https://sahilatahar.github.io/text-to-speech/
 + Type the text you want to convert to speech in the input field.
 + Use the sliders to adjust the speech rate, volume, and pitch as per your preference.
 + Click on the "Speak" button to start the speech.
