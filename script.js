@@ -16,7 +16,8 @@ const stopBtn = document.getElementById('stop-btn');
 let speech = new SpeechSynthesisUtterance();
 speech.lang = 'en';
 
-let voices = [];
+let voices = window.speechSynthesis.getVoices();
+
 window.speechSynthesis.onvoiceschanged = () => {
     voices = window.speechSynthesis.getVoices();
     speech.voice = voices[0];
